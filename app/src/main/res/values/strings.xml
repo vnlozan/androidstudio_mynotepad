@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">MyNotePad</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_open">Open</string>
+    <string name="action_save">Save</string>
+    <string name="text1">Сохранение файла</string>
+    <string name="external1">Внешнее устройство</string>
+    <string name="internal1">Внутреннее устройство</string>
+    <string name="cancel1">Отмена</string>
+    <string name="path1">Вид устройства для сохранения</string>
+    <string name="save11">Вобор</string>
+    <string name="noacces">SD-карта не доступна: </string>
+    <string name="title">Введите название файла .txt</string>
+    <string name="fileSaved">Файл успешно создан</string>
+    <string name="path2">Вид устройства для открытия</string>
+    <string name="path3">Выберите файл для открытия</string>
+
+    <string name="pref_openmode">Режим открытия</string>
+    <string name="pref_color">Цвет</string>
+    <string name="pref_color_black">Черный цвет</string>
+    <string name="pref_color_red">Красный цвет</string>
+    <string name="pref_color_green">Зеленый цвет</string>
+    <string name="pref_color_blue">Синий цвет</string>
+    <string name="pref_size">Размер</string>
+    <string name="pref_style">Стиль</string>
+    <string name="pref_style_regular">Нормальный</string>
+    <string name="pref_style_bold">Полужирный</string>
+    <string name="pref_style_italic">Курсив</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+</resources>
